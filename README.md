@@ -1,2 +1,2 @@
 # webliojp
-Weblio JP extension for firefox
+Weblio.jp search extension for Firefox.
